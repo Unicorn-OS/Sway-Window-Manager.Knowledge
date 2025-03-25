@@ -8,3 +8,6 @@ sch: https://www.youtube.com/results?search_query=i3+window+manager
 index:
 - [i3 window manager screencast v4.1](https://youtu.be/Wx0eNaGzAZU)
 - [What the hell is a Tiling Window Manager? Linux For Newbs EP 2](https://youtu.be/xWIDvnNFl5I)
+
+# Relation:
+- [You NEED to try Hyprland on Linux RIGHT NOW | Hyprland for Newbs EP 1](https://youtu.be/2CP_9-jCV6A)
