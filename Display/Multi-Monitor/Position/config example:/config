@@ -1,0 +1,4 @@
+# monitor position
+output HDMI-A-4 pos 0 0
+output HDMI-A-3 pos 3840 0
+output HDMI-A-2 pos 1920 0
