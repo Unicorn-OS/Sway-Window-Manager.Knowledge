@@ -1,1 +1,1 @@
-https://www.google.com/search?client=firefox-b-d&q=sway+resize+mode
+https://www.google.com/search?q=sway+resize+mode
