@@ -1,0 +1,6 @@
+# https://www.reddit.com/r/swaywm/comments/q5tpay/apply_mouse_input_config_to_all_mice_that_connect/
+
+input type:pointer {
+    accel_profile flat
+    pointer_accel 0
+}
